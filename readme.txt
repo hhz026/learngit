@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 Push to Github
 Creating a new branch is quick and simple.
 No fast forward merge.
+git stash pop.
